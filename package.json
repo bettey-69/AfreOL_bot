@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@grammyjs/conversations": "^1.1.2",
+    "axios": "^1.6.2",
+    "context": "^3.0.13",
+    "grammy": "^1.19.2",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
